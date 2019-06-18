@@ -1,0 +1,11 @@
+C:\Users\acer\Desktop\Things\Report Homework\二下\視覺化程式設計\TempoGame1\TempoGame1\bin\Debug\TempoGame1.exe.config
+C:\Users\acer\Desktop\Things\Report Homework\二下\視覺化程式設計\TempoGame1\TempoGame1\bin\Debug\TempoGame1.exe
+C:\Users\acer\Desktop\Things\Report Homework\二下\視覺化程式設計\TempoGame1\TempoGame1\bin\Debug\TempoGame1.pdb
+C:\Users\acer\Desktop\Things\Report Homework\二下\視覺化程式設計\TempoGame1\TempoGame1\obj\Debug\TempoGame1.Form1.resources
+C:\Users\acer\Desktop\Things\Report Homework\二下\視覺化程式設計\TempoGame1\TempoGame1\obj\Debug\TempoGame1.Form2.resources
+C:\Users\acer\Desktop\Things\Report Homework\二下\視覺化程式設計\TempoGame1\TempoGame1\obj\Debug\TempoGame1.Properties.Resources.resources
+C:\Users\acer\Desktop\Things\Report Homework\二下\視覺化程式設計\TempoGame1\TempoGame1\obj\Debug\TempoGame1.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\Things\Report Homework\二下\視覺化程式設計\TempoGame1\TempoGame1\obj\Debug\TempoGame1.exe
+C:\Users\acer\Desktop\Things\Report Homework\二下\視覺化程式設計\TempoGame1\TempoGame1\obj\Debug\TempoGame1.pdb
+C:\Users\acer\Desktop\Things\Report Homework\二下\視覺化程式設計\TempoGame1\TempoGame1\obj\Debug\TempoGame1.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\Things\Report Homework\二下\視覺化程式設計\TempoGame1\TempoGame1\obj\Debug\TempoGame1.Form3.resources
