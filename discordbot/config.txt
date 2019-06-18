@@ -1,3 +1,0 @@
-token=放自己的token
-owner=填使用者
-prefix="!!"
